@@ -1,19 +1,8 @@
-<img src="https://raw.githubusercontent.com/ZZYActSci/ZZYActSCi/main/ProfileImage.png/>
+<img src="https://github.com/ZZYActSci/ZZYActSCi/blob/main/ProfileImage.png">
 
-
-### Hi there 👋
-
-<!--
-**ZZYActSci/ZZYActSCi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋  This is Ziye
+- 🔭 I'm currently a candidate of Master of Management in Analytics at Mcgill Univeristy
+- 🌱 I’m currently learning various topics in Data Science (Optimization, Text Mining, Machine Learning, Deep Learning, etc.)
+- 🤔 I'm not a big fun of coding/programing, but I love math and data science!  :heart:    :heart:    :heart:   
+- 📫 How to reach me: ziye12581@gmail.com
+- ⚡ Fun fact:  :heart: A huuuuge fan of The Legend of Zelda: Breath of the Wild.   
