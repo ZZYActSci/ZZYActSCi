@@ -6,3 +6,7 @@
 - 🤔 I'm not a big fun of coding/programming, but I love math and data science!  :heart:    :heart:    :heart:   
 - 📫 How to reach me: ziye12581@gmail.com
 - ⚡ Fun fact:  :heart: A huuuuge fan of The Legend of Zelda: Breath of the Wild.   
+
+
+<!Show Language Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZZYActSCi"/>
